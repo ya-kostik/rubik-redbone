@@ -1,6 +1,6 @@
 {
   "name": "rubik-redbone",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "The Redbone kubik for Rubik",
   "main": "lib/classes/Redbone.js",
   "repository": "git@github.com:ya-kostik/rubik-redbone.git",
