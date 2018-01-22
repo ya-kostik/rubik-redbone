@@ -1,0 +1,28 @@
+{
+  "name": "rubik-redbone",
+  "version": "1.0.0",
+  "description": "The Redbone kubik for Rubik",
+  "main": "lib/classes/Redbone.js",
+  "repository": "git@github.com:ya-kostik/rubik-redbone.git",
+  "author": "Constantin Tsukanov <c@indotech.ru>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "redbone": "^2.4.2"
+  },
+  "peerDependencies": {
+    "rubik-http": "^1.1.0",
+    "rubik-main": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.16.0",
+    "jest": "^22.1.4",
+    "rubik-http": "^1.1.1",
+    "rubik-main": "^1.2.0"
+  }
+}
